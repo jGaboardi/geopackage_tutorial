@@ -1,6 +1,6 @@
 ## A quick tutorial for reading and writing GeoPackages
-## Launch the interactive binder here:
- * ### [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jGaboardi/geopackage_tutorial/master?filepath=geopackage_in_python.ipynb) (Works best with Firefox)
+### Launch the interactive binder (works best with Firefox) from a remote server by clicking the badge below. All code cells can be run and edited. 
+ * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jGaboardi/geopackage_tutorial/master?filepath=geopackage_in_python.ipynb)
 -------------------
 # Working with [OCG GeoPackages](https://www.geopackage.org) in Python/[GeoPandas](http://geopandas.org)
  * Create spatial and attribute data
