@@ -1,4 +1,4 @@
-## A quick tutorial for reading and writing GeoPackages
+## A quick tutorial for reading and writing GeoPackages [![DOI](https://zenodo.org/badge/232688553.svg)](https://zenodo.org/badge/latestdoi/232688553)
 ### Launch the interactive binder (works best with Firefox) from a remote server by clicking the badge below. All code cells can be run and edited. 
  * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jGaboardi/geopackage_tutorial/master?filepath=geopackage_in_python.ipynb)
 -------------------
