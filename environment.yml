@@ -1,0 +1,14 @@
+# Run to create: $ conda-env create -f environment.yml
+name: geopackages-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - ipython
+  - conda
+  - jupyter
+  - nb_conda_kernels
+  - geopandas
+  - matplotlib
+  - descartes
+  - watermark
