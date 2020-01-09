@@ -1,6 +1,15 @@
-# geopackage_tutorial
-## Quick tutorial for reading and writing GeoPackages
-
+### A quick tutorial for reading and writing GeoPackages
+-------------------
+# Working with [OCG GeoPackages](https://www.geopackage.org) in Python/[GeoPandas](http://geopandas.org)
+ * Create spatial and attribute data
+ * Examine data
+   * tabular view
+   * frame properties (column names and frame shape)
+   * plotting
+ * Read and write layers to a `.gpkg` file
+ * Read and write layers to a compressed `.gpkg.gz` file
+ 
+#### James Gaboardi, 01/2020
 
 ------------------------
 
