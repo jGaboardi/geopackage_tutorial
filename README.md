@@ -1,7 +1,8 @@
-## A quick tutorial for reading and writing GeoPackages [![DOI](https://zenodo.org/badge/232688553.svg)](https://zenodo.org/badge/latestdoi/232688553)
-### Launch the interactive binder (works best with Firefox) from a remote server by clicking the badge below. All code cells can be run and edited. 
+# A quick tutorial for reading and writing GeoPackages [![DOI](https://zenodo.org/badge/232688553.svg)](https://zenodo.org/badge/latestdoi/232688553)
+#### Launch the interactive binder (works best with Firefox) from a remote server by clicking the badge below. All code cells can be run and edited. 
  * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jGaboardi/geopackage_tutorial/master?filepath=geopackage_in_python.ipynb)
--------------------
+
+
 # Working with [OCG GeoPackages](https://www.geopackage.org) in Python/[GeoPandas](http://geopandas.org)
  * Create spatial and attribute data
  * Examine data
@@ -13,12 +14,27 @@
  
 #### James Gaboardi, 01/2020
 
-------------------------
+
+# BibTeX Citation
+
+If this tutorial is helpful for your research, please consider using the following citation:
+
+```tex
+@software{gaboardi-geopackage-tutorial,
+  author       = {James D. Gaboardi},
+  title        = {jGaboardi/geopackage\_tutorial},
+  month        = jan,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v0.0.1},
+  doi          = {10.5281/zenodo.3603214},
+  url          = {https://doi.org/10.5281/zenodo.3603214}
+}
+```
 
 
 
-
-### License
+# License
 
 BSD 3-Clause License
 
