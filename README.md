@@ -10,7 +10,6 @@
    * frame properties (column names and frame shape)
    * plotting
  * Read and write layers to a `.gpkg` file
- * Read and write layers to a compressed `.gpkg.gz` file
  
 #### James Gaboardi, 01/2020
 
